@@ -1,0 +1,7 @@
+{
+  "name": "CondominioConectado",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
